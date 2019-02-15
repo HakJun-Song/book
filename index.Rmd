@@ -1,0 +1,10 @@
+---
+title: "My First Book"
+author: "SBKO"
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+---
+
+
+# 깃북 만들기 연습 {#TryGitBook}
+이것은 `bookdown` 패키지를 이용하여 깃북을 만드는 연습이다.
